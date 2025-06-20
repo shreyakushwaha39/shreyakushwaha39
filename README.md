@@ -14,7 +14,7 @@
   - Advanced Python (2nd Semester): OOPs, Pandas, NumPy, SciPy, Matplotlib
 
 - **Web Development:**  
-  - Created my personal **Resume Website** using HTML & CSS
+  - Created my personal **Resume Website** using HTML
 
 - **Tools & Libraries:**  
   - Pandas, NumPy, Matplotlib, SciPy  
