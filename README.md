@@ -41,7 +41,6 @@ My **first-ever personal resume website**, created during a **workshop in 1st ye
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyakushwaha39&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=shreyakushwaha39&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
