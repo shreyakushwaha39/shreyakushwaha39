@@ -37,14 +37,6 @@ My **first-ever personal resume website**, created during a **workshop in 1st ye
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyakushwaha39&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/shreyakushwaha39"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
