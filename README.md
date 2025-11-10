@@ -37,7 +37,7 @@ My **first-ever personal resume website**, created during a **workshop in 1st ye
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,figma,git,github" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ My **first-ever personal resume website**, created during a **workshop in 1st ye
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/shreyakushwaha39"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shreya-kushwaha-b370b2238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreya-kushwaha-b370b2238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kushwahashreya39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
