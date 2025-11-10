@@ -1,51 +1,63 @@
-# 👋 Hi there! I'm Shreya Kushwaha
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/shreyakushwaha39/shreyakushwaha39/blob/main/shreya.jpg" alt="Shreya Kushwaha Banner" width="100%" />
+</p>
 
-🎓 I’m a first-year B.Tech Computer Science student at **NIET College**, passionate about learning and growing in the field of technology.
-
-💻 I have been exploring programming through my college workshops and personal projects. You can find my progress and projects here on GitHub.
-
----
-
-## 🔧 Technical Skills
-
-- **Programming Languages:**  
-  - C Programming (Basics – from 1st Semester Workshop)  
-  - Python Programming (Basics – 1st Semester)  
-  - Advanced Python (2nd Semester): OOPs, Pandas, NumPy, SciPy, Matplotlib
-
-- **Web Development:**  
-  - Created my personal **Resume Website** using HTML
-
-- **Tools & Libraries:**  
-  - Pandas, NumPy, Matplotlib, SciPy  
-  - Git & GitHub
-  
----
-
-## 📚 Current Goals
-
-- Strengthen my skills in Data Structures and Algorithms  
-- Learn more about full-stack web development  
-- Build real-world projects and improve my GitHub portfolio
+<h1 align="center">👋 Hi, I'm Shreya Kushwaha</h1>
+<h3 align="center">💻 2nd Year CSE Student | NIET, Greater Noida</h3>
 
 ---
 
-## 🌐 Connect with Me
+### 🚀 About Me
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **NIET, Greater Noida**  
+- 🌱 Learning **Java with DSA**, **Full Stack Web Development**, and **UI/UX Design**  
+- 💡 I love combining creativity and logic to build impactful digital experiences  
+- 💭 Always curious to explore new technologies and improve problem-solving  
 
-Feel free to explore my repositories and follow my journey. I'm always open to collaboration and learning from others!
+---
 
+### 💼 My Projects
 
-<!--
-**shreyakushwaha39/shreyakushwaha39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🕵️‍♀️ Detective Mystery Game (C Language)
+A fun and interactive **detective mystery game** developed as my **college project** — built using **C** with logic-based clues and structured game flow.  
+📂 *Made during my 2nd-year project work.*
 
-Here are some ideas to get you started:
+#### 🌐 Hackathon Project Website
+Developed with my teammates during a **college hackathon**, and we were selected among the **Top 70 teams** for our innovative idea and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💼 Resume Website
+My **first-ever personal resume website**, created during a **workshop in 1st year at NIET**, showcasing my portfolio and skills.
+
+#### 💻 Programming Repositories
+- 🧠 **C, Python, and Advanced Python Programs** — Created during my 1st-year workshops  
+- 🧩 **Java DSA Practice** — Currently uploading solutions and problem sets  
+- 🎨 **Frontend Web Pages** — Practicing modern, responsive UI designs  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,figma,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyakushwaha39&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakushwaha39&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/shreyakushwaha39"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreya-kushwaha-b370b2238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kushwahashreya39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *“Code. Create. Learn. Repeat.”*
