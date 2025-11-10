@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/shreyakushwaha39/shreyakushwaha39/blob/main/shreya.jpg" alt="Shreya Kushwaha Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Shreya Kushwaha</h1>
 <h3 align="center">💻 2nd Year CSE Student | NIET, Greater Noida</h3>
 
