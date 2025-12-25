@@ -32,7 +32,7 @@ My **first-ever personal resume website**, created during a **workshop in 1st ye
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,figma,git,github" />
 </p>
 
 ---
