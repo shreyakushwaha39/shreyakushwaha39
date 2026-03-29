@@ -13,6 +13,9 @@
 
 ### 💼 My Projects
 
+#### 📁 FileVault
+A PHP + MySQL file sharing web app with encryption, permissions, download tracking and a dark UI. Deployed on InfinityFree.
+
 #### 🕵️‍♀️ Detective Mystery Game (C Language)
 A fun and interactive **detective mystery game** developed as my **college project** — built using **C** with logic-based clues and structured game flow.  
 📂 *Made during my 2nd-year project work.*
